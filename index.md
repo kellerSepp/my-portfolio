@@ -1,3 +1,8 @@
+##this is just the standard content for now. I will updadte everything as soon as possible.
+
+first step is to setup the github page
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kellerSepp/my-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
