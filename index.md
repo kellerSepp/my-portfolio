@@ -1,4 +1,4 @@
-##this is just the standard content for now. I will updadte everything as soon as possible.
+## This is just the standard content for now. I will updadte everything as soon as possible.
 
 first step is to setup the github page
 
