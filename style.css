@@ -140,9 +140,7 @@ main{
     margin-left: 5rem;
 }
 
-main > p{
-    width: 60ch;
-}
+
 h1{
     margin: 0;
 }
@@ -185,9 +183,11 @@ h1{
         margin: 0;
     }
 
+    
 }
 
 @media only screen and (min-width:600px) {
+    
     .navbar{
         width: 5rem;
         height: 100vh;
@@ -211,6 +211,10 @@ h1{
 
     .nav-item:last-child{
         margin-top: auto;
+    }
+
+    main > p{
+        width: 60ch;
     }
 }
 
