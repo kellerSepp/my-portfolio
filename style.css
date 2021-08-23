@@ -235,6 +235,10 @@ $$ $$ $$< $$    $$/ $$       |$$ |      $$ |$$       |/     $$/
 
 
 @media only screen and (max-width:600px) {
+    h1,h2,h3,h4,h5,h6{
+        text-align: center;
+    }
+
     .navbar{
         bottom: 0;
         width: 100vw;
@@ -257,6 +261,8 @@ $$ $$ $$< $$    $$/ $$       |$$ |      $$ |$$       |/     $$/
 
     main{
         margin: 0;
+        /* margin-top: 10px; */
+        margin-bottom: 6rem;
     }
 
     .about-me > .default{
@@ -264,6 +270,7 @@ $$ $$ $$< $$    $$/ $$       |$$ |      $$ |$$       |/     $$/
         margin-right:10px;
         line-height: 1.8rem;
     }
+
 
     
 }
